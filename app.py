@@ -1,3 +1,4 @@
 print("System Online")
-# login feature placeholder 
+user = input("username: ")
+print(f"welcome {user}")
 
